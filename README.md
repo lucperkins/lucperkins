@@ -12,5 +12,5 @@ Check out my [sponsors page][sponsors] to see how you can contribute to my effor
 [contentlayer]: https://contentlayer.dev
 [next]: https://nextjs.org
 [nix]: https://nixos.org
-[sponsors]: https://github.com/lucperkins/sponsors
+[sponsors]: https://github.com/sponsors/lucperkins
 [typescript]: https://typescript.org
