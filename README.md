@@ -6,10 +6,11 @@ Hello, everyone! I'm a freelance software engineer and technical educator with a
 - Build systems ([Nix], [Bazel])
 - Front-end development (front-end frameworks like [NextJS][next], [TypeScript], [Contentlayer])
 
-Check out my [sponsors page](./sponsors) to see how you can contribute to my efforts 💰. Even modest amounts are a huge help!
+Check out my [sponsors page][sponsors] to see how you can contribute to my efforts 💰. Even modest amounts are a huge help!
 
 [bazel]: https://bazel.build
 [contentlayer]: https://contentlayer.dev
 [next]: https://nextjs.org
 [nix]: https://nixos.org
+[sponsors]: https://github.com/lucperkins/sponsors
 [typescript]: https://typescript.org
