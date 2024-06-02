@@ -1,16 +1,18 @@
 # Welcome to Luc Perkins' GitHub profile! 👋🏼🐙
 
-Hello, everyone! I'm a freelance software engineer and technical educator with a passion for making complex software systems dramatically more accessible for developers of all stripes. At the moment, my work is focused on:
+Hello, everyone!
+I'm a software engineer at [Determinate Systems][detsys] working on bringing [Nix] to the masses with [FlakeHub] and tools like the [Determinate Nix Installer][installer], the [Nix Flake Checker][checker], and the [Magic Nix Cache][magic].
 
-- Data engineering (databases, messaging systems, SQL)
-- Build systems ([Nix], [Bazel])
-- Front-end development (front-end frameworks like [NextJS][next], [TypeScript], [Contentlayer])
+I also retain a strong interest in databases and am a co-author of the second edition of [Seven Databases in Seven Weeks][7dbs].
 
-Check out my [sponsors page][sponsors] to see how you can contribute to my efforts 💰. Even modest amounts are a huge help!
+Check out my [sponsors page][sponsors] if you'd like to contribute to my OSS efforts 💰, which include projects like [The Nix Way][way].
 
-[bazel]: https://bazel.build
-[contentlayer]: https://contentlayer.dev
-[next]: https://nextjs.org
+[7dbs]: https://7dbs.io
+[checker]: https://github.com/DeterminateSystems/flake-checker
+[detsys]: https://determinate.systems
+[flakehub]: https://flakehub.com
+[installer]: https://github.com/DeterminateSystems/nix-installer
+[magic]: https://github.com/DeterminateSystems/magic-nix-cache
 [nix]: https://nixos.org
 [sponsors]: https://github.com/sponsors/lucperkins
-[typescript]: https://typescript.org
+[way]: https://github.com/the-nix-way
